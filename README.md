@@ -37,3 +37,7 @@ WildVision AI is a deep learning-based animal classification system built using 
 
 ```bash
 streamlit run app.py
+
+## 🎥 Demo Video
+
+[Watch Demo Video](https://www.linkedin.com/posts/umar-shamas-b73b69280_ai-machinelearning-deeplearning-ugcPost-7459333802906071041-fDCw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESD7UcBdKC7N_TW-YrBryLE_h5g_2EDQ7E))
